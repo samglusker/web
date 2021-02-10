@@ -1,0 +1,17 @@
+/*
+Sam Glusker
+IntroCS pd02 sec02
+HW05 -- Stuylin'/HTML/using CSS to update our html pages
+2021-02-10
+*/
+
+h1 {
+	background-color: blue;
+}
+
+p {
+  color: red;
+  font-size: 12;
+}
+
+
