@@ -6,12 +6,12 @@ HW05 -- Stuylin'/HTML/using CSS to update our html pages
 */
 
 h1 {
-	background-color: blue;
+	background-color: blue; /* sets the background color of all h1 headings to blue */
 }
 
 p {
-  color: red;
-  font-size: 12;
+  color: red;		/* sets the font color of all "p" body text to red */
+  font-size: 12;	/* sets the font size of all "p" body text to 12px */
 }
 
 
